@@ -1,0 +1,5 @@
+IMPORTANT: LICENSE.md is intentionally included exactly as supplied, but it is NOT GPG-signed in this build bundle.
+
+Clauses 1 and 2 of the current adapted Attribution Assurance License literally require a verifiable GPG-signed copy of the license text. The launch splash satisfies the runtime attribution portion of clause 2, but it does not replace the GPG-signature requirement.
+
+Before public redistribution under the current wording, sign the final LICENSE.md with the Author's own OpenPGP/GPG key and include the verifiable signature (for example LICENSE.md.asc) with distributions.
