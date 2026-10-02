@@ -52,5 +52,5 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 –End of License
 
-Originally written by Edwin A. Suominen for licensing his PRIVARIA secure networking software (see www.privaria.org). The author, who is not an attorney, places this license template into the public domain along with a complete disclaimer of any warranty or responsibility for its content or legal efficacy. You may use or modify the language freely, but entirely at your own risk.
-作者更在乎时薪，工作生活平衡、以及闲暇时光。因此，将原文中偏主观的表述进行了修改。
+Originally written by Edwin A. Suominen for licensing his PRIVARIA secure networking software (see www.privaria.org). The author, who is not an attorney, places this license template into the public domain along with a complete disclaimer of any warranty or responsibility for its content or legal efficacy. You may use or modify the language freely, but entirely at your own risk.</br>
+作者更在乎时薪，工作生活平衡、以及闲暇时光。因此，将原文中偏主观的表述进行了修改。</br>虽然部分条款中也继承了这句话，但没必要写“几千美刀”……
